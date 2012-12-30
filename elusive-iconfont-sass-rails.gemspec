@@ -4,7 +4,7 @@ require 'elusive-iconfont-sass-rails/version'
 
 Gem::Specification.new do |s|
   s.name        = 'elusive-iconfont-sass-rails'
-  s.version     = Font::Awesome::Sass::Rails::VERSION
+  s.version     = ElusiveIconfontSassRails::VERSION
   s.authors     = ['Eric Holmes']
   s.email       = ['eric@ejholmes.net']
   s.homepage    = 'https://github.com/ejholmes/elusive-iconfont-sass-rails'
