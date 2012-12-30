@@ -34,3 +34,7 @@ Just import elusive-iconfont right after bootstrap:
 @import 'bootstrap';
 @import 'elusive-iconfont';
 ```
+
+## Thanks
+
+Special thanks to <https://github.com/littlebtc/font-awesome-sass-rails>.
